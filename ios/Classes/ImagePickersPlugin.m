@@ -422,7 +422,7 @@ static NSString *const CHANNEL_NAME = @"flutter/image_pickers";
                 //         [UIImageJPEGRepresentation(image,1.0) writeToFile:jpgPath atomically:YES];
                 //         NSString *aPath3=[NSString stringWithFormat:@"%@/Documents/%@",NSHomeDirectory(),name];
                         
-                //         result(aPath3);
+                        result(@"");
                 //     }
                 // }
                 
